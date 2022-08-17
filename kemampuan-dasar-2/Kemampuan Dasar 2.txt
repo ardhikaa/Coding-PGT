@@ -1,0 +1,6 @@
+Tujuan
+Memahami teknologi informasi secara umum dan kaitannya dengan software.
+Memahami ranah pendidikan yang terkait dengan teknologi informasi: istilah teknik informatika / informatics, ilmu komputer / computer science.
+Memahami arti penting dari metodologi pengembangan software
+Memahami Agile Software Development secara umum
+Memahami dasar yang kuat dari praktik Agile Software Development: Extreme Programming dan Scrum
